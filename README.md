@@ -36,7 +36,7 @@ Data was cleaned, modeled, and visualized in Power BI.
 - DAX Measures for KPI derivations (RevPAR, Realisation %, etc.)
 
 ## 📸 Screenshot
-![Hotel Performance Dashboard](./dashboard-ss.jpg)
+![Hotel Performance Dashboard](./dashboard%20ss.jpg)
 
 ## 💡 Learnings
 This project helped me:
